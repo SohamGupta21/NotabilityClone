@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gupta/AndroidStudioProjects/NotabilityClone/app/src/main/res/drawable/ic_floppy_disk.xml" value="0.1" />
         <entry key="..\:/Users/gupta/AndroidStudioProjects/NotabilityClone/app/src/main/res/drawable/ic_paint_brush.xml" value="0.1" />
         <entry key="..\:/Users/gupta/AndroidStudioProjects/NotabilityClone/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/gupta/AndroidStudioProjects/NotabilityClone/app/src/main/res/xml/file_paths.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>

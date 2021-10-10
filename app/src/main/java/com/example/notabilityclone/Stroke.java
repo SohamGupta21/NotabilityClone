@@ -10,6 +10,7 @@ public class Stroke {
     // width of the stroke
     public int strokeWidth;
 
+
     // a Path object to
     // represent the path drawn
     public Path path;
